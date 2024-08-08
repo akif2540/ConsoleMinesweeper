@@ -27,3 +27,6 @@ This project is a simple implementation of a Minesweeper game developed using Ja
 - The game ends if a mine is opened, and the user is informed of the mine.
 - The game is won when all safe cells are revealed, and the user is congratulated.
 
+- https://github.com/user-attachments/assets/07cb5bc8-33b3-4bf1-a4fd-76b12f7a8830
+
+
